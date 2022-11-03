@@ -1,12 +1,6 @@
 #coding:utf-8
 
 """アクセストークン取得
-参考: pythonでローカルwebサーバを立ち上げる
-https://qiita.com/okhrn/items/4d3c74563154f191ba16
-参考: Python(3)WSGI:ウェブページからshutdown()メソッドでWSGIサーバを停止させる
-https://p--q.blogspot.com/2014/05/wsgi3shutdownwsgi.html
-参考: PythonのHTTPServer／BaseHTTPRequestHandlerを使って、簡単なHTTPサーバーを書く
-https://kazuhira-r.hatenablog.com/entry/2019/08/12/220406
 """
 
 # ==== ライブラリ ====

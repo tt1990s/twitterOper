@@ -1,8 +1,7 @@
 #coding:utf-8
 
 """アンファボ(ツイートデータ使用)
-参考：API - tweepy 4.12.0 documentatio
-https://docs.tweepy.org/en/stable/api.html
+
 """
 
 # ==== ライブラリ ====
